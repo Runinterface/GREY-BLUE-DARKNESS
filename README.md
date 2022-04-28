@@ -5,6 +5,11 @@
 
 ## Maked with love ❤️ 💎 🔥
 
-* Examples
-![1](https://github.com/Runinterface/GREY-BLUE-DARKNESS/blob/main/pic/1.png)
-![2](https://github.com/Runinterface/GREY-BLUE-DARKNESS/blob/main/pic/2.png)
+# Screenshots
+![1](screenshots/pic/1.png)
+![2](screenshots/pic/2.png)
+
+
+# Changelog
+
+You can take a look at the change log [here](https://github.com/Runinterface/GREY-BLUE-DARKNESS/blob/main/CHANGELOG.md)
