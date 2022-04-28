@@ -2,8 +2,9 @@
     "name": "grey-blue-darkness",
     "displayName": "GREY-BLUE DARKNESS",
     "description": "Awesome",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "GREY-BLUEDARKNESS",
+    "icon": "icons/main.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/Runinterface/GREY-BLUE-DARKNESS"
