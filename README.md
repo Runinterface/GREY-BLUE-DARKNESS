@@ -6,5 +6,5 @@
 ## Maked with love ❤️ 💎 🔥
 
 * Examples
-![1](https://github.com/Runinterface/GREY-BLUE-DARKNESS/tree/main/pic/1.png)
-![2](https://github.com/Runinterface/GREY-BLUE-DARKNESS/tree/main/pic/2.png)
+![1](https://github.com/Runinterface/GREY-BLUE-DARKNESS/blob/main/pic/1.png)
+![2](https://github.com/Runinterface/GREY-BLUE-DARKNESS/blob/main/pic/2.png)
