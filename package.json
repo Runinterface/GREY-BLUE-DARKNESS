@@ -1,0 +1,33 @@
+{
+    "name": "grey-blue-darkness",
+    "displayName": "GREY-BLUE DARKNESS",
+    "description": "Awesome",
+    "version": "0.0.1",
+    "publisher": "GREY-BLUEDARKNESS",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Runinterface/GREY-BLUE-DARKNESS"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "awesome",
+        "grey",
+        "blue"
+    ],
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "GREY-BLUE DARKNESS",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GREY-BLUE DARKNESS-color-theme.json"
+            }
+        ]
+    }
+}

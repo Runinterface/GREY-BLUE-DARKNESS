@@ -1,2 +1,3 @@
-# GREY-BLUE-DARKNESS
-VS CODE THEME
+# README
+
+* VS code themes
