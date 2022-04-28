@@ -6,8 +6,8 @@
 ## Maked with love ❤️ 💎 🔥
 
 # Screenshots
-![1](screenshots/pic/1.png)
-![2](screenshots/pic/2.png)
+![1](screenshots/1.png)
+![2](screenshots/2.png)
 
 
 # Changelog
