@@ -3,7 +3,7 @@
 ## Repository : https://github.com/Runinterface/GREY-BLUE-DARKNESS
 
 
-## Maked with love ❤️ 💎 🔥
+## Made with love ❤️ 💎 🔥
 
 # Screenshots
 ![1](screenshots/1.png)
