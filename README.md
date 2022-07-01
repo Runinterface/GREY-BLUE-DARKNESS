@@ -1,7 +1,7 @@
 # GRAY-BLUE DARKNESS 
 ## VSCODE THEME
 
-If u have a questions you can connect whith me [here](https://runinterface.tech)
+If you have a questions you can connect whith me [here](https://runinterface.tech)
 
 ## Made with love ❤️
 
