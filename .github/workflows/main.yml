@@ -18,16 +18,21 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Json validation
       - uses: actions/checkout@v3
-      - name: Validate JSON
-        uses: OrRosenblatt/validate-json-action@0.1.0
+      - uses: ewilliams-zoot/jsv-action@v1
         with:
-          json:  ./themes/GREY-BLUE DARKNESS-color-theme.json
+          key-and-file: 'GREY-BLUE DARKNESS-color-theme.json'
+          key-and-schema: 'GREY-BLUE DARKNESS-color-theme.json'
 
   build_and_publish:
-    runs-on: nodejs-latest
+    runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 17
+          cache: 'npm'
+          cache-dependency-path: subdir/package-lock.json
       - name: Install requries packages
         run: npm install -g vsce
 
