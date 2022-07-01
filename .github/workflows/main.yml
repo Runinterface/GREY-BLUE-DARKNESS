@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: ewilliams-zoot/jsv-action@v1.1.4
         with:
-          key-and-file: 'GREY-BLUE DARKNESS-color-theme.json'
+          key-and-file: 'semanticHighlighting:true/themes/GREY-BLUE DARKNESS-color-theme.json'
 
   build_and_publish:
     runs-on: ubuntu-latest
