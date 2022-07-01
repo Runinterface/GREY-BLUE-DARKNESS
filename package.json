@@ -2,7 +2,7 @@
     "name": "grey-blue-darkness",
     "displayName": "GREY-BLUE DARKNESS",
     "description": "Awesome",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "publisher": "GREY-BLUEDARKNESS",
     "icon": "icons/main.png",
     "repository": {
@@ -14,7 +14,12 @@
         "dark",
         "awesome",
         "grey",
-        "blue"
+        "blue",
+        "codercode",
+        "coder",
+        "development",
+        "coder dark", 
+        "the coder dark"
     ],
     "engines": {
         "vscode": "^1.66.0"

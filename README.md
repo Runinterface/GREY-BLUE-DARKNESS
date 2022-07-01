@@ -1,9 +1,9 @@
-# GRAY-BLUE VS CODE THEME
-## If u have a questions runinterface@gmail.com
-## Repository : https://github.com/Runinterface/GREY-BLUE-DARKNESS
+# GRAY-BLUE DARKNESS 
+## VSCODE THEME
 
+If u have a questions you can connect whith me [here](https://runinterface.tech)
 
-## Made with love ❤️ 💎 🔥
+## Made with love ❤️
 
 # Screenshots
 ![1](screenshots/1.png)
