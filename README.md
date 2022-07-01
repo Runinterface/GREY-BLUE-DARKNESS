@@ -1,5 +1,5 @@
 # GRAY-BLUE DARKNESS 
-[![CI](https://github.com/Runinterface/GREY-BLUE-DARKNESS/blob/main/.github/workflows/main.yml/badge.svg)](https://github.com/Runinterface/GREY-BLUE-DARKNESS/blob/main/.github/workflows/main.yml)
+[![CI](https://github.com/Runinterface/GREY-BLUE-DARKNESS/actions/workflows/main.yml/badge.svg)](https://github.com/Runinterface/GREY-BLUE-DARKNESS/blob/main/.github/workflows/main.yml)
 ## VSCODE THEME
 
 
