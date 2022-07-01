@@ -1,5 +1,8 @@
 # GRAY-BLUE DARKNESS 
+[![CI](https://github.com/Runinterface/GREY-BLUE-DARKNESS/blob/main/.github/workflows/main.yml/badge.svg)](https://github.com/Runinterface/GREY-BLUE-DARKNESS/blob/main/.github/workflows/main.yml)
 ## VSCODE THEME
+
+
 
 If you have a questions you can connect whith me [here](https://runinterface.tech)
 

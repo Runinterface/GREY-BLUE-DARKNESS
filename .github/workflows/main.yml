@@ -24,27 +24,3 @@ jobs:
           VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: master
           VALIDATE_JSON: true
-
-  build_and_publish:
-    needs: [validate_json]
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 16
-          cache: 'npm'
-          cache-dependency-path: subdir/package-lock.json
-      - name: Install requries packages
-        run: npm install -g vsce
-
-      - name: vsce login grey-bluedarkness
-        run: |
-          vsce login grey-bluedarkness
-          {{ secrets.TOKEN }}
-
-      - name: vsce package and publish
-        run: |
-          vsce package
-          vsce publish
-          echo "DONE!"
