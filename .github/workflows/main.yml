@@ -19,7 +19,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v3
-      - uses: ewilliams-zoot/jsv-action@v1
+      - uses: ewilliams-zoot/jsv-action@v1.1.4
         with:
           key-and-file: 'GREY-BLUE DARKNESS-color-theme.json'
           key-and-schema: 'GREY-BLUE DARKNESS-color-theme.json'
